@@ -1,0 +1,66 @@
+.testimonios {
+  padding: 5rem 0;
+  background: #f9f9f9;
+}
+
+.testimonios h2 {
+  font-size: 2.5rem;
+  text-align: center;
+  margin-bottom: 3rem;
+  color: var(--primary-dark);
+}
+
+.testimonios-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+}
+
+.testimonio-card {
+  background: var(--white);
+  border-radius: 15px;
+  padding: 2rem;
+  box-shadow: var(--shadow-md);
+  transition: var(--transition);
+  border-top: 3px solid var(--primary-color);
+}
+
+.testimonio-card:hover {
+  box-shadow: var(--shadow-lg);
+  transform: translateY(-4px);
+}
+
+.stars {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
+
+.testimonio-text {
+  color: var(--text-dark);
+  font-size: 0.95rem;
+  margin-bottom: 1rem;
+  line-height: 1.7;
+  font-style: italic;
+}
+
+.testimonio-autor {
+  color: var(--primary-color);
+  font-weight: 600;
+  margin: 0;
+}
+
+/* ===================== RESPONSIVE DESIGN ===================== */
+
+@media (max-width: 768px) {
+  .testimonios-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .testimonios h2 {
+    font-size: 2rem;
+  }
+
+  .testimonios {
+    padding: 3rem 0;
+  }
+}

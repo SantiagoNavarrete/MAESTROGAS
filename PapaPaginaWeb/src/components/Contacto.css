@@ -1,0 +1,102 @@
+.contacto {
+  padding: 5rem 0;
+  background: linear-gradient(135deg, #f5f5f5 0%, var(--white) 100%);
+}
+
+.contacto h2 {
+  font-size: 2.5rem;
+  text-align: center;
+  margin-bottom: 2rem;
+  color: var(--primary-dark);
+}
+
+.contacto-content {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.contacto-info {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+  margin-bottom: 3rem;
+}
+
+.info-item {
+  display: flex;
+  gap: 1.5rem;
+  background: var(--white);
+  padding: 2rem;
+  border-radius: 15px;
+  box-shadow: var(--shadow-sm);
+  transition: var(--transition);
+}
+
+.info-item:hover {
+  box-shadow: var(--shadow-lg);
+  transform: translateY(-4px);
+}
+
+.info-icon {
+  font-size: 2rem;
+  min-width: 60px;
+  text-align: center;
+}
+
+.info-item h3 {
+  color: var(--primary-color);
+  margin-bottom: 0.5rem;
+}
+
+.info-item p {
+  color: var(--gray-dark);
+  margin: 0 0 0.5rem 0;
+}
+
+.contacto-aviso {
+  margin-top: 2rem;
+}
+
+.aviso-box {
+  background: linear-gradient(135deg, #fff9e6 0%, #fffbf0 100%);
+  border-left: 4px solid #ff9800;
+  border-radius: 15px;
+  padding: 2rem;
+  box-shadow: var(--shadow-md);
+}
+
+.aviso-box h3 {
+  color: #ff6f00;
+  margin-bottom: 1rem;
+  font-size: 1.2rem;
+}
+
+.aviso-box p {
+  color: #555;
+  line-height: 1.7;
+  margin: 0;
+}
+
+.aviso-box strong {
+  color: #d84315;
+}
+
+/* ===================== RESPONSIVE DESIGN ===================== */
+
+@media (max-width: 768px) {
+  .contacto-info {
+    grid-template-columns: 1fr;
+  }
+
+  .contacto h2 {
+    font-size: 2rem;
+  }
+
+  .contacto {
+    padding: 3rem 0;
+  }
+
+  .aviso-box {
+    padding: 1.5rem;
+  }
+}

@@ -1,0 +1,6 @@
+@import './styles/globals.css';
+
+.app {
+  width: 100%;
+  overflow-x: hidden;
+}
