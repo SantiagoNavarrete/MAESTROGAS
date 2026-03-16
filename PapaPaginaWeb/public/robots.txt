@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: 
+
+Sitemap: https://maestrogaspro.com/sitemap.xml
+
+# Specific rules for search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /

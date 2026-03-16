@@ -6,37 +6,37 @@ function Servicios() {
       id: 1,
       icon: '💧',
       title: 'Reparación de Pérdidas',
-      description: 'Detectamos y reparamos fugas de agua en cualquier parte de tu hogar'
+      description: 'Detectamos y reparamos fugas de agua en San Rafael. Servicio urgente disponible'
     },
     {
       id: 2,
       icon: '🚰',
       title: 'Instalación de Grifería',
-      description: 'Instalamos grifos modernos y de calidad con garantía'
+      description: 'Grifos modernos de calidad en San Rafael. Instalación profesional con garantía'
     },
     {
       id: 3,
       icon: '🌊',
       title: 'Destapaciones de Cloacas',
-      description: 'Limpieza y destapación de cañerías de cloacas de forma rápida y efectiva'
+      description: 'Destapación rápida de cloacas en San Rafael. Equipamiento profesional'
     },
     {
       id: 4,
       icon: '🔥',
       title: 'Instalaciones de Gas',
-      description: 'Instalación, reparación y mantenimiento seguro de sistemas de gas'
+      description: 'Instalación y mantenimiento seguro de gas en San Rafael. Certificado'
     },
     {
       id: 5,
       icon: '🔧',
       title: 'Reparación de Cañerías',
-      description: 'Reparación y mantenimiento completo de sistemas de cañerías'
+      description: 'Mantenimiento y reparación de cañerías en San Rafael. Trabajo garantizado'
     },
     {
       id: 6,
       icon: '♨️',
       title: 'Calefones y Termotanques',
-      description: 'Instalación, reparación y mantenimiento de sistemas de agua caliente'
+      description: 'Instalación y reparación de sistemas de agua caliente en San Rafael'
     }
   ]
 
