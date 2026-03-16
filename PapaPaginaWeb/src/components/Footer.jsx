@@ -12,7 +12,7 @@ function Footer() {
           <div className="footer-section">
             <h4>Contacto</h4>
             <p>📱 WhatsApp: +54 9 2604 63-8499</p>
-            <p>📧 Email: consultas@maestrogaspro.com</p>
+            <p>📧 Email: colosanlorenzo08@gmail.com</p>
             <p>Consulta disponibilidad antes de contratar</p>
           </div>
           <div className="footer-section">
