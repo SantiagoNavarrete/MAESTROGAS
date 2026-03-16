@@ -25,7 +25,7 @@ function Contacto() {
               <div className="info-icon">📍</div>
               <div>
                 <h3>Zona de Cobertura</h3>
-                <p>Trabajamos en toda la zona norte y alrededores</p>
+                <p>San Rafael Mendoza</p>
               </div>
             </div>
             <div className="info-item">
