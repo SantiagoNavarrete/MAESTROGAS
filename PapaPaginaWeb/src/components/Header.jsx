@@ -28,7 +28,7 @@ function Header() {
       <div className="header-container">
         <div className="logo">
           <div className="logo-icon">🔧</div>
-          <h1>MaestroGas</h1>
+          <h1>JUAN DOMINGO NAVARRETE</h1>
         </div>
         <nav className="nav">
           <button onClick={() => scrollToSection('servicios')}>Servicios</button>

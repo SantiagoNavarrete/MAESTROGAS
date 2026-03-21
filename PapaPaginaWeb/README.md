@@ -1,4 +1,4 @@
-# MaestroGas Pro - Página Web Profesional
+# JUAN DOMINGO NAVARRETE - Página Web Profesional
 
 Página web moderna y profesional para servicios de plomería, gas y cloacas.
 

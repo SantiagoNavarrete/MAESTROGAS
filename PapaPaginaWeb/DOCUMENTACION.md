@@ -1,4 +1,4 @@
-# MaestroGas Pro - Página Web Profesional
+# JUAN DOMINGO NAVARRETE - Página Web Profesional
 
 Una página web moderna y responsiva para servicios de plomería, gas y cloacas. Diseñada para generar confianza y convertir visitantes en clientes a través de WhatsApp.
 
@@ -163,7 +163,7 @@ window.open('https://wa.me/5492604638499', '_blank')
 ## 🔧 Customización
 
 ### Cambiar nombre de la empresa
-Busca "MaestroGas Pro" en los siguientes archivos:
+Busca "JUAN DOMINGO NAVARRETE" en los siguientes archivos:
 - `Header.jsx`
 - `Footer.jsx`
 

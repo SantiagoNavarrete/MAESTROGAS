@@ -6,7 +6,7 @@ function Footer() {
       <div className="container">
         <div className="footer-content">
           <div className="footer-section">
-            <h3>MaestroGas</h3>
+            <h3>JUAN DOMINGO NAVARRETE</h3>
             <p>Servicio profesional de plomería, gas y cloacas</p>
           </div>
           <div className="footer-section">
@@ -28,7 +28,7 @@ function Footer() {
           </div>
         </div>
         <div className="footer-bottom">
-          <p>&copy; MAESTROGAS. Todos los derechos reservados.</p>
+          <p>&copy; JUAN DOMINGO NAVARRETE. Todos los derechos reservados.</p>
         </div>
       </div>
     </footer>
